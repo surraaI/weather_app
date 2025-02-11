@@ -42,5 +42,7 @@ const giphyApiKey = 'YOUR_GIPHY_API_KEY';
 ```
 You can obtain API keys from:
 
-Visual Crossing (for weather data)
-Giphy (for GIFs)
+- Visual Crossing (for weather data)
+- Giphy (for GIFs)
+
+## 🚀 Enjoy the Weather Forecast App! 🌎☀️🌧️
