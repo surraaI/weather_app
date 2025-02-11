@@ -17,8 +17,8 @@ Welcome to Weather Forecast, a simple yet interactive web application that allow
 - Enter a location in the input field.
 - Click the "Search" button to fetch the weather.
 - The app displays:
--- Temperature
--- Weather condition (e.g., Cloudy, Sunny, Rainy)
--- A relevant weather GIF
--- Background color changes based on the weather
+- - Temperature
+- - Weather condition (e.g., Cloudy, Sunny, Rainy)
+- - A relevant weather GIF
+- - Background color changes based on the weather
 - Toggle °C/°F to switch temperature units.
